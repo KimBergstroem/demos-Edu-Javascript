@@ -16,4 +16,4 @@ This repository serves solely for educational purposes, providing demonstrations
 
 Feel free to explore, learn, and experiment with the JavaScript examples provided in this repository.
 
-Please note that this repository is not intended for production use but rather as a learning resource.
+Please note that this repository is not intended for production use but rather as a learning resource..
